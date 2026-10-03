@@ -1,4 +1,5 @@
-def honey():
-    fruits= ["apple:banana", "cherry"]
-    print(type(fruits))
-honey()  
+n = 5873
+while n > 0:
+    print(n)
+    n -= 1
+    
