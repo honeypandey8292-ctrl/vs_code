@@ -1,5 +1,1 @@
-n = 5873
-while n > 0:
-    print(n)
-    n -= 1
-    
+print ("this is my coding journey")
