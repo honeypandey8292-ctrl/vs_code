@@ -57,7 +57,10 @@
 # # Agar hume janna ho ki humara ko value hai jo variable ke ander store hai
 # # vo value kon se type ka hai to hum print ke sath type function ka use krte hai
 
-x=3
-y="honey"
-print(type(x))
-print(type(y))
+# x=3
+# y="honey"
+# print(type(x))
+# print(type(y))
+
+a="honey"
+print(a[-1])
